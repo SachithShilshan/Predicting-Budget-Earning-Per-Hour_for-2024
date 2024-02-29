@@ -9,6 +9,7 @@ To begin our project, we gathered pre-order data spanning from 2018 to 2023. Thi
 
 ### The Algorithmic Approach
 Our predictive model consists of several stages, each tailored to forecast specific components contributing to EPH.
+![image](https://github.com/SachithShilshan/Predicting-Budget-Earning-per-Hour-EPH-for-2024/assets/91172509/8fae809f-047a-40bf-a72e-2f1ff90ec372)
 
 1. **Predicting Sales Value:** Using polynomial regression, we forecasted sales value based on customer and product hierarchy information. This step laid the foundation for estimating revenue generation.
 
