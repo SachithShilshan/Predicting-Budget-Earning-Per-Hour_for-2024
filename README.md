@@ -1,7 +1,7 @@
-# Predicting-Budget-Earning-per-Hour-EPH-for-2024
+# Predicting-Earning-per-Hour-EPH
 
 
-In today's fast-paced business environment, accurate prediction of financial metrics is crucial for effective planning and decision-making. One such metric is Budget Earning per Hour (EPH), which provides valuable insights into the efficiency and profitability of operations. In this project , we delve into a data-driven project aimed at predicting EPH for the year 2024, utilizing historical data and advanced machine learning algorithms.
+In today's fast-paced business environment, accurate prediction of financial metrics is crucial for effective planning and decision-making. One such metric is Budget Earning per Hour (EPH), which provides valuable insights into the efficiency and profitability of operations. In this project , we delve into a data-driven project aimed at predicting EPH , utilizing historical data and advanced machine learning algorithms.
 
 ### Gathering and Preparing Data
 To begin our project, we gathered pre-order data spanning from 2018 to 2023. This dataset included information on customers, product hierarchies, sales values, row material costs (RMC), quantities, and standard minute values (SMV). After meticulous cleaning and preprocessing, we were ready to apply our predictive algorithms.
