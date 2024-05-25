@@ -1,4 +1,4 @@
-# Predicting-Earning-per-Hour-EPH
+# Predicting-Budget-Earning-per-Hour-EPH
 
 
 In today's fast-paced business environment, accurate prediction of financial metrics is crucial for effective planning and decision-making. One such metric is Budget Earning per Hour (EPH), which provides valuable insights into the efficiency and profitability of operations. In this project , we delve into a data-driven project aimed at predicting EPH , utilizing historical data and advanced machine learning algorithms.
